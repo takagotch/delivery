@@ -1,7 +1,8 @@
 ##　伝票番号/Ship Number お問い合わせ
 
-### DHL
+### DHL/Deutsche Post 
 http://www.dhl.co.jp/ja/express/tracking.html
+https://www.deutschepost.de/sendung/simpleQuery.html?locale=en_GB
 
 ### Fedex
 https://www.fedex.com/apps/fedextrack/?action=altref&cntry_code=jp
