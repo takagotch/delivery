@@ -15,8 +15,15 @@ https://www.ups.com/WebTracking/track?loc=ja_JP
 ### ヤマト
 https://toi.kuronekoyamato.co.jp/cgi-bin/tneko
 
+
 ### 日本郵便
 https://trackings.post.japanpost.jp/services/srv/search/input
+collection cargo
+https://mgr.post.japanpost.jp/C20P02Action.do;jsessionid=KwQtcc1CZJty6v47yQz0qYpd03FxPFSbGgT28jJ5hBNbSPPhDNHf!454253876?ssoparam=0&termtype=0#_ga=2.158425663.440160739.1557935525-855490867.1557935525
+https://clickpost.jp/
+https://yu-bin.jp/letters/letterpack/
+Redelivery
+https://trackings.post.japanpost.jp/delivery/deli/firstDeliveryInput/#_ga=2.158425663.440160739.1557935525-855490867.1557935525
 
 ### 佐川急便
 http://k2k.sagawa-exp.co.jp/p/web/okurijosearch.do?okurijoNo=402546532183#detail-1
