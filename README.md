@@ -24,6 +24,8 @@ https://clickpost.jp/
 https://yu-bin.jp/letters/letterpack/
 Redelivery
 https://trackings.post.japanpost.jp/delivery/deli/firstDeliveryInput/#_ga=2.158425663.440160739.1557935525-855490867.1557935525
+international post ems sal
+https://www.int-mypage.post.japanpost.jp/mypage/M010000.do
 
 ### 佐川急便
 http://k2k.sagawa-exp.co.jp/p/web/okurijosearch.do?okurijoNo=402546532183#detail-1
