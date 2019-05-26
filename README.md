@@ -10,6 +10,9 @@ https://www.fedex.com/apps/fedextrack/?action=altref&cntry_code=jp
 ### UPS
 https://www.ups.com/WebTracking/track?loc=ja_JP
 
+i-parcel
+https://tracking.i-parcel.com/
+
 ---
 
 ### ヤマト
