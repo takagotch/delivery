@@ -30,6 +30,11 @@ https://trackings.post.japanpost.jp/delivery/deli/firstDeliveryInput/#_ga=2.1584
 international post ems sal
 https://www.int-mypage.post.japanpost.jp/mypage/M010000.do
 
+web print
+https://www.post.japanpost.jp/web-yu-packprint/
+
+
+
 ### 佐川急便
 http://k2k.sagawa-exp.co.jp/p/web/okurijosearch.do?okurijoNo=402546532183#detail-1
 
