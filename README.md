@@ -15,11 +15,13 @@ https://tracking.i-parcel.com/
 
 ---
 
-### ヤマト
+## ヤマト
 https://toi.kuronekoyamato.co.jp/cgi-bin/tneko
 
+web post sp
+http://www.kuronekoyamato.co.jp/ytc/customer/send/sp/
 
-### 日本郵便
+## 日本郵便
 https://trackings.post.japanpost.jp/services/srv/search/input
 collection cargo
 https://mgr.post.japanpost.jp/C20P02Action.do;jsessionid=KwQtcc1CZJty6v47yQz0qYpd03FxPFSbGgT28jJ5hBNbSPPhDNHf!454253876?ssoparam=0&termtype=0#_ga=2.158425663.440160739.1557935525-855490867.1557935525
