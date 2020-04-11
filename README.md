@@ -35,6 +35,10 @@ https://www.int-mypage.post.japanpost.jp/mypage/M010000.do
 web print
 https://www.post.japanpost.jp/web-yu-packprint/
 
+web letter
+https://webyubin.jpi.post.japanpost.jp/webyubin/elr/DYFR410.do#!/editInput
+
+click post
 
 
 ### 佐川急便
