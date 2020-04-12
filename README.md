@@ -39,7 +39,7 @@ web letter
 https://webyubin.jpi.post.japanpost.jp/webyubin/elr/DYFR410.do#!/editInput
 
 click post
-
+https://clickpost.jp/
 
 ### 佐川急便
 http://k2k.sagawa-exp.co.jp/p/web/okurijosearch.do?okurijoNo=402546532183#detail-1
